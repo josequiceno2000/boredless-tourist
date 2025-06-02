@@ -7,5 +7,7 @@ def main():
         "Cairo, Egypt",
     ]
 
+    return destinations
+
 if __name__ == "__main__":
     main()
